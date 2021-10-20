@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @homahh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning c++ and im begginer as well here are some of my code
+- 👀 I’m interested in c++
+- 🌱
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach : abdelrahim@graduate.utm.my
 
